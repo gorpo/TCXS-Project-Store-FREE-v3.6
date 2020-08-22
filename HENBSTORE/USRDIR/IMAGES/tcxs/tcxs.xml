@@ -1,0 +1,900 @@
+<XMBML version="1.0">
+  <View id="tcxs_items">
+   <Attributes>
+			<Table key="tcxs_twdge">
+   <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/twdgoty.jpg</String></Pair>
+   <Pair key="title"><String> TCXS - The Walking Dead Goty Edition - TCXS</String></Pair>
+   <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+    </Table>
+		 <Table key="tcxs_twds2">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/twds2.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - The Walking Dead Season 2 - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_skyrimsp">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/skyrimsp.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - The Elder Scrolls V: Skyrim - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Ingles (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_castlevaniasp">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/castlevaniasp.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Castlevania: Lords of Shadows - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_diablo3sp">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/diablo3sp.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Diablo 3: Reaper of Souls - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: PORTUGUÊS BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_gow3sp">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/gow3sp.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - God of War 3 - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_gowascension">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/gowascension.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - God of War Ascension - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_gta5sp">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/gta5sp.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Grand Theft Auto V - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_granturismo5sp">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/granturismo5sp.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Gran Turismo 5 XL - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: PORTUGUÊS BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_lanoire">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/lanoire.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - L.A. Noire - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_mafia2">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/mafia2.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Mafia 2 Director's Cut - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_mk9sp">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/mortalkombat.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Mortal Kombat 9 Komplete Edition - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair></Table>
+			<Table key="tcxs_naruto3">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/naruto3.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Naruto Shippuden Ultimate Ninja STORM 3 Full Burst - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_reddeadgotysp">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/reddeadgotysp.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Red Dead Redemption: GOTY - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_tombraider2013sp">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/tombraider2013sp.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Tomb Raider - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_ultrastreetfighter4sp">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/ultrastreetfighter4sp.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Ultra Street Fighter IV - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: INGLÊS (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_uncharted2sp">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/uncharted2sp.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Uncharted 2: Among Thieves - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Ingles (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_uncharted3">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/uncharted3.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Uncharted 3: Drake's Deception - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_thelastofus">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/thelastofus.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - The Last of US - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_fifa19">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/fifa19.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - FIFA 19 - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_killzone2">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/killzone2.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Killzone 2 - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_fallout3">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/fallout3.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Fallout 3: GOTY - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_tkofxii">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/tkofxii.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - The King of Fighters XII - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_umarvel3">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/umarvel3.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Ultimate Marvel Vs Capcom 3 - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_cavaleirosalma">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/cavaleirosalma.jpg</String></Pair> 
+    <Pair key="title"><String> TCXS - Cavaleiros do Zodíaco - Alma dos Soldados - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_needrivals">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/needrivals.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Need for Speed: Rivals - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_pes2018">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/pes2018.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Pes 18 - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_bts">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/bts.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Beyond: Two Souls - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_batmancity">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/batmancity.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Batman: Arkham City - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_ffxiii2">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/ffxiii2.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Final Fantasy XIII-2 - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_shadowmordor">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/shadowmordor.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Shadow of Mordor - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_grid2">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/grid2.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Grid 2 - TCXS</String></Pair> 
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_uncharted1">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/uncharted1.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Uncharted: Drake's Fortune - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Portugues (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+		 <Table key="tcxs_batmanorigins">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/batmanorigins.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Batman Arkham Origins - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_dark1">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/dark1.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Dark Souls - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_gridautosport">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/gridautosport.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Grid Autosport - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_guilty">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/guilty.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - GUILTY GEAR Xrd -REVELATOR- - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_gh5">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/gh5.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Guitar Hero 5 - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_dante">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/dante.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Dante's Inferno - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_jstars">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/jstars.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - J-Stars Victory Vs - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_heavenlysword">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/heavenlysword.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Heavenly Sword - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_maxpayne3">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/maxpayne3.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Max Payne 3 - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_metalgearsolid4">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/metalgearsolid4.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Metal Gear Solid 4: Guns of the Patriots - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_brutal">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/brutal.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Brutal Legends - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_codaw">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/codaw.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Call Of Duty Advanced Warfare - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_persona5">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/persona5.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Persona 5 - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_bf4">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/bf4.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Battlefield 4 - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_bfhardline">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/bfhardline.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Battlefield Hardline - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_dark2">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/dark2.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Dark Souls 2 - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_dragonsdogma">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/dragonsdogma.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Dragon's Dogma - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_ico_shadow">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/ico_shadow.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Ico / Shadow of the Colossus HD - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_lair">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/lair.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Lair - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_lostplanet">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/lostplanet.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Lost Planet: Extreme Condition - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_infamous2">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/infamous2.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Infamous 2 - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_mgsrising">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/mgsrising.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Metal Gear Rising Revengeance - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_farcry4">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/farcry4.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Farcry 4 - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_farcry3">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/farcry3.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Farcry 3 - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_ridge7">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/ridge7.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Ridge Racer 7 Platinum Edition - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_rerhd">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/rerhd.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Resident Evil Revelations HD - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_tberseria">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/tberseria.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Tales of Berseria - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_evilwithin">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/evilwithin.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - The Evil Within - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_destiny">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/destiny.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Destiny - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_mgshdcollection">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/mgshdcollection.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Metal Gear Solid HD Collection - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+			<Table key="tcxs_watchdogs">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/watchdogs.jpg</String></Pair>
+    <Pair key="title"><String> TCXS - Watch Dogs - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_snipergw1">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/snipergw1.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Sniper Ghost Warrior- TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_snipergw2">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/snipergw2.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Sniper Ghost Warrior 2- TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_killzone3">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/killzone3.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Killzone 3 - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_mkdc">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/mkvsdc.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - MK vs DC - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_metroligth">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/metroligth.png</String></Pair>
+    <Pair key="title"><String>TCXS - Metro Last Ligth - TCXS</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_gow3">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/gow3.png</String></Pair>
+    <Pair key="title"><String>TCXS - God Of War 3</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_bf3">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/bf3.png</String></Pair>
+    <Pair key="title"><String>TCXS - Battlefield 3</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_doom3">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/doom3.png</String></Pair>
+    <Pair key="title"><String>TCXS - Doom 3 BFG</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS31024) - TCXS</String></Pair>
+     </Table>
+     <!--aqui tinha um bug  pois o codigo estava todo comentado daqui para baixo aprende a comentar direito seu pau no cu-->
+
+   <Table key="tcxs_pvzwar">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/pvzwar.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Plants vs Zombies Garden Wargare</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS31410) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_bo2">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/codbo2.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Call of Duty: Black ops 2</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO)/(BLUS31011) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_darkst">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/darkswl1.png</String></Pair>
+    <Pair key="title"><String>TCXS - Dark Selector</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/[SLES00222] - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_soulspre">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/dark1.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Dark Souls Prepare To Die Edition</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLES01765) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_darksid2">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/Darksiders2.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Darksiders 2</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLES01597) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_deadrip">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/deadslandriptide.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Dead Island Riptide</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLES01739) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_deadright">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/deadright.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Dead To Right Retribution</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLES00824) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_guitar3lr">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/guitar3rl.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Guitar Hero 3 Legends of Rock</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_pes20">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/pes20.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Pes 20 MOD</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Português-BR (DUBLADO) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_splincellb">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/splinterblack.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Tom Clancy's Splinter Cell Blacklist</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS31025) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_viking">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/viking.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Viking Battle for Asgard</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLES00242) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_wwe17">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/wwe.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - WWE 2K17</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS31599) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_deadland">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/deadisland.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Dead Island</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS30790) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_psychobreak">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/evilwithin.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Psycho Break The Evil Within</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS31374) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_gowcoll1">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/gowgssp.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - God of War Collection Vol 1</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BCUS98229) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_heavyrain">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/heavyrain.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Heavy Rain</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BCES00797) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_alonedark">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/alonedark.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Alone In The Dark</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS30232) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_battlechess">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/chess.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Battle Vs Chess</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLES00941) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_bo1">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/bo1.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Call of Duty: Black Ops</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/[BLUS30591] - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_bo3">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/bo3.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Call Of Duty: Black Ops 3</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(NPEB02266) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_crysis3">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/crysis3.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - CRYSIS 3</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLES01649) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_fear3">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/fear3.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - F.E.A.R 3</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS30511) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_fear2">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/fear2.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - F.E.A.R 2 Project Origin</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS30251) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_gtasan">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/gta.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - GTA San Andreas</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS31584) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_herosmit">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/ghas.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Guitar Hero Aerosmith</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS31025) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_injustce">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/injustice.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Injustce Gods Among Us</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLES01673) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_jojo">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/jojo.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - JoJo’s Bizarre Adventure All-Star Battle</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/[BLJS10217] - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_legorock">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/legorock.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - LEGO Rock Band</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLES00636) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_lrfantasy">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/ffxiii-3.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Lightning Returns Final Fantasy</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS31164) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_lostplane2">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/lp2.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Lost Planet 2</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(MRTC00002) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_lostplanet3">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/lostplanet3.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Lost Planet 3</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS31020) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_gear5pain">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/mgsvgz.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Metal Gear Solid V The Phantom Pain</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS31491) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_mk9">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/mortalkombat.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Mortal Kombat 9 Komplete</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS30902) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_shippudenunsr">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/narutorevo.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Naruto Shippuden Ultimate Ninja Storm Revolution</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS31421) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_resevil5">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/re5.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - ResidentEvil 5 Gold</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/[BLUS30491] - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_risen3">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/risen3.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Risen 3  Titan Lords</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS31432) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_silentdw">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/silenthilldp.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Silent Hill Downpour</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS30565) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_sniper3">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/sbiperelite3.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Sniper Elite III</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS31401) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_sniperv2">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/sniperelite2.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - Sniper Elite V2</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLUS30798) - TCXS</String></Pair>
+     </Table>
+   <Table key="tcxs_taspiderman">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/tcxs/miranha.jpg</String></Pair>
+    <Pair key="title"><String>TCXS - The Amazing Spider-man</String></Pair>
+    <Pair key="info"><String>Idioma do Jogo: Inglês (LEGENDADO)/(BLES01547) - TCXS</String></Pair>
+     </Table>
+    </Attributes>
+    <Items>
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_alonedark" attr="tcxs_alonedark"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/alonedark.xml#alonedark_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_batmancity" attr="tcxs_batmancity"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/batcity.xml#batmancity_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_batmanorigins" attr="tcxs_batmanorigins"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/batorigins.xml#batmanorigins_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_bf3" attr="tcxs_bf3" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/bf3.xml#bf3_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_bf4" attr="tcxs_bf4" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/bf4.xml#bf4_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_bfhardline" attr="tcxs_bfhardline" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/bfhardline.xml#bfhardline_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_battlechess" attr="tcxs_battlechess"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/battlechess.xml#battlechess_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_bts" attr="tcxs_bts"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/bey2souls.xml#bts_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_brutal" attr="tcxs_brutal" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/brutallegends.xml#brutal_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_codaw" attr="tcxs_codaw" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/codaw.xml#codaw_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_bo1" attr="tcxs_bo1"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/codbo1.xml#bo1_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_bo2" attr="tcxs_bo2"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/codbo2.xml#bo2_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_bo3" attr="tcxs_bo3" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/codbo3.xml#bo3_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_crysis3" attr="tcxs_crysis3"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/crysis3.xml#crysis3_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_castlevaniasp" attr="tcxs_castlevaniasp"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/castlevania.xml#castlevaniasp_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_cavaleirosalma" attr="tcxs_cavaleirosalma"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/seiyasouls.xml#cavaleirosalma_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_dante" attr="tcxs_dante"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/dante.xml#dante_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_soulspre" attr="tcxs_soulspre"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/darksoulspre.xml#darkpre_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_deadright" attr="tcxs_deadright"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/deadright.xml#deadright_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_deadland" attr="tcxs_deadland"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/deadisland.xml#deadisland_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_deadrip" attr="tcxs_deadrip"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/deadislandrp.xml#deadislandrp_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_darksid2" attr="tcxs_darksid2"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/darksiders2.xml#darksiders2_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_darkst" attr="tcxs_darkst"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/darksector.xml#darksector_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_dark1" attr="tcxs_dark1"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/darksouls.xml#dark1_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_dark2" attr="tcxs_dark2" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/darksouls2.xml#dark2_items"/ >
+            
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_destiny" attr="tcxs_destiny"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/destiny.xml#destiny_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_diablo3sp" attr="tcxs_diablo3sp"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/diablo3.xml#diablo3sp_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_doom3" attr="tcxs_doom3"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/doom3.xml#doom3_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_dragonsdogma" attr="tcxs_dragonsdogma"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/dragdog.xml#dragonsdogma_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_farcry3" attr="tcxs_farcry3"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/farcry3.xml#farcry3_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_farcry4" attr="tcxs_farcry4"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/farcry4.xml#farcry4_items"/ >
+            
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_fallout3" attr="tcxs_fallout3"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/fallout3.xml#fallout3_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_fear2" attr="tcxs_fear2"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/fear2.xml#fear2_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_fear3" attr="tcxs_fear3"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/fear3.xml#fear3_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_fifa19" attr="tcxs_fifa19"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/fifa19.xml#fifa19_items"/ >
+            
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_ffxiii2" attr="tcxs_ffxiii2"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/fantasy13-2.xml#ffxiii2_items"/
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_lrfantasy" attr="tcxs_lrfantasy"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/lrfantasy.xml#lrfantasy_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_guitarlr" attr="tcxs_guitarlr"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/guitarhero3.xml#guitarhero3_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_herosmit" attr="tcxs_herosmit"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/guitarsmit.xml#guitarsmit_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_gowcoll1" attr="tcxs_gowcoll1"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/gowcoll1.xml#gowcoll1_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_gow3" attr="tcxs_gow3"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/gow3.xml#gow3_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_gow3sp" attr="tcxs_gow3sp"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/gow3sp.xml#gow3sp_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_gowascension" attr="tcxs_gowascension"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/gowasc.xml#gowascension_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_gta5sp" attr="tcxs_gta5sp"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/gta5sp.xml#gta5sp_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_granturismo5sp" attr="tcxs_granturismo5sp"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/grant5.xml#granturismo5sp_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_grid2" attr="tcxs_grid2"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/grid2.xml#grid2_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_gridautosport" attr="tcxs_gridautosport"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/gridsport.xml#gridautosport_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_guilty" attr="tcxs_guilty"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/guiltygear.xml#guilty_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_gh5" attr="tcxs_gh5"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/guitarhero5.xml#gh5_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_heavyrain" attr="tcxs_heavyrain"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/heavyrain.xml#heavyrain_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_heavenlysword" attr="tcxs_heavenlysword"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/heavenlysword.xml#heavenlysword_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_injustice" attr="tcxs_injustice"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/injustice.xml#injustice_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_ico_shadow" attr="tcxs_ico_shadow"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/icoshadow.xml#ico_shadow_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_infamous2" attr="tcxs_infamous2"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/infamous2.xml#infamous2_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_jstars" attr="tcxs_jstars"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/jstars.xml#jstars_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_jojoba" attr="tcxs_jojoba"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/jojoba.xml#jojoba_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_killzone2" attr="tcxs_killzone2"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/killzone2.xml#killzone2_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_killzone3" attr="tcxs_killzone3"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/killzone3.xml#killzone3_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_lair" attr="tcxs_lair"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/lair.xml#lair_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_lanoire" attr="tcxs_lanoire"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/lanoire.xml#lanoire_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_legorock" attr="tcxs_legorock"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/legorock.xml#legorock_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_lostplanet2" attr="tcxs_lostplanet2"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/lostplanet2.xml#lostplanet2_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_lostplanet3" attr="tcxs_lostplanet3"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/lostplanet3.xml#lostplanet3_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_lostplanet" attr="tcxs_lostplanet"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/lostplanetxtr.xml#lostplanet_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_mafia2" attr="tcxs_mafia2"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/mafia2.xml#mafia2_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_maxpayne3" attr="tcxs_maxpayne3"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/maxpayne3.xml#maxpayne3_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_metroligth" attr="tcxs_metroligth"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/metrolastligth.xml#metroligth_items"/ >
+            
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_mgshdcollection" attr="tcxs_mgshdcollection" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/metalgearcollection.xml#mgshdcollection_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_metalgearsolid4" attr="tcxs_metalgearsolid4"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/metalgear4.xml#metalgearsolid4_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_mgsrising" attr="tcxs_mgsrising"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/metalgearrev.xml#mgsrising_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_gear5pain" attr="tcxs_gear5pain"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/metalgear5pain.xml#metalgear5pain_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_mkdc" attr="tcxs_mkdc"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/mkvsdc.xml#mkdc_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_mk9sp" attr="tcxs_mk9sp"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/mk9.xml#mk9sp_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_naruto3" attr="tcxs_naruto3"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/naruto3.xml#naruto3_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_narutounsr" attr="tcxs_narutounsr"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/narutounsr.xml#narutounsr_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_needrivals" attr="tcxs_needrivals"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/needrivals.xml#needrivals_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_persona5" attr="tcxs_persona5"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/persona5.xml#persona5_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_pes2018" attr="tcxs_pes2018"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/pes18.xml#pes2018_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_pes20" attr="tcxs_pes20"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/pes20.xml#pes20_items"/ >
+
+	 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_pvzwar" attr="tcxs_pvzwar"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/pvzwar.xml#pvzwar_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_psychobreak" attr="tcxs_psychobreak"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/pychobreak.xml#psychobreak_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_reddeadgotysp" attr="tcxs_reddeadgotysp"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/reddead.xml#reddeadgotysp_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_resevil5" attr="tcxs_resevil5"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/resevil5.xml#resevil5_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_rerhd" attr="tcxs_rerhd"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/resevilrvl.xml#rerhd_items"/ >
+
+	 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_raisen3" attr="tcxs_raisen3"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/raisen3.xml#raisen3_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_ridge7" attr="tcxs_ridge7"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/ridrace7.xml#ridge7_items"/ >
+  
+	 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_sniper3" attr="tcxs_sniper3"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/sniper3.xml#sniper3_items"/ >
+
+	 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_sniperv2" attr="tcxs_sniperv2"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/sniperv2.xml#sniperv2_items"/ >
+
+    <Query class="type:x-xmb/folder-pixmap" key="tcxs_snipergw1" attr="tcxs_snipergw1"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/sniperghost.xml#snipergw1_items"/ >
+
+		  <Query class="type:x-xmb/folder-pixmap" key="tcxs_snipergw2" attr="tcxs_snipergw2"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/sniperghost2.xml#snipergw2_items"/ >
+
+	 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_splincellb" attr="tcxs_splincellb"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/splintercellbl.xml#splintercellbl_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_shadowmordor" attr="tcxs_shadowmordor"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/shadowmordor.xml#shadowmordor_items"/ >
+            
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_skyrimsp" attr="tcxs_skyrimsp"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/skyrim.xml#skyrimsp_items"/ >
+
+	 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_silentdw" attr="tcxs_silentdw"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/silentdw.xml#silentdw_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_tberseria" attr="tcxs_tberseria"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/talesberseria.xml#tberseria_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_tkofxii" attr="tcxs_tkofxii"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/kof12.xml#tkofxii_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_thelastofus" attr="tcxs_thelastofus"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/thelastofus.xml#thelastofus_items"/ >
+
+	 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_taspiderman" attr="tcxs_taspiderman"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/taspiderman.xml#taspiderman_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_twdge" attr="tcxs_twdge"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/walkingdead.xml#twdge_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_twds2" attr="tcxs_twds2"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/walkingdeads2.xml#twds2_items"/ >	
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_evilwithin" attr="tcxs_evilwithin"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/evilwithin.xml#evilwithin_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_tombraider2013sp" attr="tcxs_tombraider2013sp"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/tombraider.xml#tombraider2013sp_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_umarvel3" attr="tcxs_umarvel3"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/marvelvscapcom3.xml#umarvel3_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_ultrastreetfighter4sp" attr="tcxs_ultrastreetfighter4sp"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/streetfighter4.xml#ultrastreetfighter4sp_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_uncharted1" attr="tcxs_uncharted1"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/uncharted.xml#uncharted1_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_uncharted2sp" attr="tcxs_uncharted2sp"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/uncharted2.xml#uncharted2sp_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_uncharted3" attr="tcxs_uncharted3"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/uncharted3.xml#uncharted3_items"/ >
+
+	 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_viking" attr="tcxs_viking"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/viking.xml#viking_items"/ >
+
+		 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_watchdogs" attr="tcxs_watchdogs"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/watchdogs.xml#watchdogs_items"/ >
+
+	 	<Query class="type:x-xmb/folder-pixmap" key="tcxs_wwe17" attr="tcxs_wwe17"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/PS3/wwe17.xml#wwe17_items"/ >
+     </Items>
+    </View>
+
+</XMBML>

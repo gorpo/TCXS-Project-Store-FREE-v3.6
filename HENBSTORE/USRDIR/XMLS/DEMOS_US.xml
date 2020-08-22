@@ -1,0 +1,59 @@
+<XMBML version="1.0"> 
+	<View id="C00_US_items">
+		<Attributes>
+			<Table key="demo_ag">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/MENU/demo.png</String></Pair>
+                <Pair key="title"><String>Jogos DEMO A até G</String></Pair>
+                <Pair key="info"><String>Baixe os jogos DEMO de A até G</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="demo_hm">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/MENU/demo.png</String></Pair>
+                <Pair key="title"><String>Jogos DEMO H até M</String></Pair>
+                <Pair key="info"><String>Baixe os jogos DEMO de H até M</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="demo_ns">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/MENU/demo.png</String></Pair>
+                <Pair key="title"><String>Jogos DEMO N até S</String></Pair>
+                <Pair key="info"><String>Baixe os jogos DEMO de N até S</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="demo_tz">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/MENU/demo.png</String></Pair>
+                <Pair key="title"><String>Jogos DEMO T até Z</String></Pair>
+                <Pair key="info"><String>Baixe os jogos DEMO de T até Z</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+		<Items>
+            <Query
+                class="type:x-xmb/xmlpackagefolder"
+                key="demo_ag"
+                attr="demo_ag"
+                src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/DEMOSLIST/demo_ag.xml#demo_ag_items"
+            />
+            <Query
+                class="type:x-xmb/xmlpackagefolder"
+                key="demo_hm"
+                attr="demo_hm"
+                src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/DEMOSLIST/demo_hm.xml#demo_hm_items"
+            />
+            <Query
+                class="type:x-xmb/xmlpackagefolder"
+                key="demo_ns"
+                attr="demo_ns"
+                src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/DEMOSLIST/demo_ns.xml#demo_ns_items"
+            />
+            <Query
+                class="type:x-xmb/xmlpackagefolder"
+                key="demo_tz"
+                attr="demo_tz"
+                src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/DEMOSLIST/demo_tz.xml#demo_tz_items"
+            /> 
+        </Items>
+	</View>
+
+	
+
+</XMBML>

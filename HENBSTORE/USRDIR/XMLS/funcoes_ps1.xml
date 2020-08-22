@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<XMBML version="1.0">
+
+		<View id="funcoes_ps1_items"> 
+		<Attributes> 
+			
+			
+			
+			<Table key="install_ps1">
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/MENU/installerps1.png</String></Pair>
+				<Pair key="title"><String>Instalar Jogos de PS1</String></Pair>
+				<Pair key="info"><String>Os PKGs apareceram aqui após baixados na opção abaixo.</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="jogos_ps1">
+				<Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/MENU/baixarps1.png</String></Pair>
+				<Pair key="title"><String>Baixar Jogos de PS1</String></Pair>
+				<Pair key="info"><String>Baixe os jogos aqui e depois vá para a instalação acima.</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+
+
+
+
+
+
+		</Attributes>
+			<Items>
+
+			
+			<Query
+           		class="type:x-xmb/xmlpackagefolder"
+                key="install_ps1"
+                attr="install_ps1"
+                src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/install_ps1.xml#instalador_ps1_items"
+            />
+            <Query
+           		class="type:x-xmb/xmlpackagefolder"
+                key="jogos_ps1"
+                attr="jogos_ps1"
+                src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/XMLS/jogos_ps1.xml#ps1_items"
+            />
+
+
+
+
+			</Items>
+		</View>
+
+		
+
+
+                              
+
+
+		
+		
+				
+		
+
+
+
+
+
+
+
+
+
+
+
+		</XMBML>
+		
